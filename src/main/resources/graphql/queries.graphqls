@@ -1,0 +1,7 @@
+extend type Query {
+    external(name: String!): External!
+}
+
+extend type External {
+    age: Int!
+}

@@ -1,0 +1,16 @@
+{
+  "apiPackageName": "com.github.martinlau.graphql.resolver",
+  "apiRootInterfaceStrategy": "DO_NOT_GENERATE",
+  "customTypesMapping": {
+    "External": "com.github.martinlau.external.model.External"
+  },
+  "generateApisWithThrowsException": false,
+  "generateBuilder": false,
+  "generateDataFetchingEnvironmentArgumentInApis": false,
+  "generateExtensionFieldsResolvers": true,
+  "generateImmutableModels": true,
+  "generateModelsForRootTypes": false,
+  "generatedLanguage": "KOTLIN",
+  "modelPackageName": "com.github.martinlau.graphql.model",
+  "packageName": "com.github.martinlau.graphql"
+}
